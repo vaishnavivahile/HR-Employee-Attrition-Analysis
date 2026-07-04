@@ -29,10 +29,10 @@ and work conditions.
 ## Dashboard Preview
 
 ### Attrition Overview
-![Attrition Overview](Attrition_Overview.png)
+![Attrition Overview](Screenshots/Attrition_Overview.png)
 
 ### Risk Factors
-![Risk Factors](Risk_Factors.png)
+![Risk Factors](Screenshots/Risk_Factors.png)
 
 ### Department Deep Dive
-![Department Deep Dive](Department_Deep_Dive.png)
+![Department Deep Dive](Screenshots/Department_Deep_Dive.png)
