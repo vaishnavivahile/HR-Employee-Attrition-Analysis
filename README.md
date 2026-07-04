@@ -29,7 +29,7 @@ and work conditions.
 ## Dashboard Preview
 
 ### Attrition Overview
-![Attrition Overview](Screenshots/Attrition_Overview.png)
+![Attrition Overview](Attrition_Overview.png)
 
 ### Risk Factors
 ![Risk Factors](Screenshots/Risk_Factors.png)
