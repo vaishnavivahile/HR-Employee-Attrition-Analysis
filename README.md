@@ -32,7 +32,7 @@ and work conditions.
 ![Attrition Overview](Attrition_Overview.png)
 
 ### Risk Factors
-![Risk Factors](Screenshots/Risk_Factors.png)
+![Risk Factors](Risk_Factors.png)
 
 ### Department Deep Dive
-![Department Deep Dive](Screenshots/Department_Deep_Dive.png)
+![Department Deep Dive](Department_Deep_Dive.png)
